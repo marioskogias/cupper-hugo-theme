@@ -349,6 +349,9 @@ caption {
     margin-right: auto;
     max-width: 25rem;
 }
+.nomargin {
+    margin-top: 0;
+}
 .main-and-footer {
     margin-left: 15rem;
 }
